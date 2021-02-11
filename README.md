@@ -1,3 +1,5 @@
+🚀 Check out my solution (1440px and 375px width) => 
+
 # Frontend Mentor - Single Price Grid Component
 
 ![Design preview for the Single Price Grid Component coding challenge](./design/desktop-preview.jpg)
